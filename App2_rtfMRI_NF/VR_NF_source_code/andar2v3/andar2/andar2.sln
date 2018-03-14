@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4FDA72A8-7A3E-03C3-7E61-DD5C9204D9F6}") = "andar2", "Assembly-CSharp.csproj", "{A9DE6401-2635-7A39-C5CF-56C3383E54AE}"
+EndProject
+Project("{4FDA72A8-7A3E-03C3-7E61-DD5C9204D9F6}") = "andar2", "Assembly-CSharp-Editor.csproj", "{97CC857B-9FDE-12E2-6E56-7E52B22294A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9DE6401-2635-7A39-C5CF-56C3383E54AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DE6401-2635-7A39-C5CF-56C3383E54AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DE6401-2635-7A39-C5CF-56C3383E54AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DE6401-2635-7A39-C5CF-56C3383E54AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97CC857B-9FDE-12E2-6E56-7E52B22294A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CC857B-9FDE-12E2-6E56-7E52B22294A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CC857B-9FDE-12E2-6E56-7E52B22294A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CC857B-9FDE-12E2-6E56-7E52B22294A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
